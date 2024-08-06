@@ -1,2 +1,3 @@
 # kpillay-firstrepo-vc
-My PGDip Data Analytics Repo
+
+This repo contains the .csv files i have used to build my machine learning models.
